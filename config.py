@@ -13,24 +13,24 @@ API_HASH = getenv("API_HASH","a069bf02806468fe18427ab6b9a3bb6c")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN","8000715851:AAE_kttWXmWqvBNWQpbocL1ez1AbaruFmV4")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","@Rishunit_hu_bochlik")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Khushiji22")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","@Officialganamusic_bot")
+BOT_USERNAME = getenv("BOT_USERNAME","https://t.me/+B1UHue_TbnAxZGNl")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
 
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://herokuadd95:<db_password>@cluster0.0iw95.mongodb.net/")
+MONGO_DB_URI = getenv("MONGO_DB_URI","HRKU-ef033a29-14a4-46b2-adb9-ce57da6cda9e")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", -1002258966210))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002320027119))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7547797705))
+OWNER_ID = int(getenv("OWNER_ID", 7046392109))
 
 # make your bots privacy from telegra.ph and put your url here 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://graph.org/PRIVACY-FOR-TEAM-PURVI-BOTS-09-18")
@@ -51,8 +51,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Rishant_pack")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/boyandgirlgcc")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+B1UHue_TbnAxZGNl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+B1UHue_TbnAxZGNl")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
